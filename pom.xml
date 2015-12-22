@@ -2446,4 +2446,13 @@ the style metadata must be kept as is.</comments>
     <developerConnection>scm:git:git://github.com/michel-kraemer/styles.git</developerConnection>
     <url>https://github.com/citation-style-language/styles</url>
   </scm>
+
+  <build>
+    <resources>
+      <resource>
+        <directory>.</directory>
+      </resource>
+    </resources>
+  </build>
+
 </project>
