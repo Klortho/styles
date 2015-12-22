@@ -2450,7 +2450,8 @@ the style metadata must be kept as is.</comments>
   <build>
     <resources>
       <resource>
-        <directory>.</directory>
+        <directory>resources</directory>
+        <targetPath>.</targetPath>
       </resource>
     </resources>
   </build>
