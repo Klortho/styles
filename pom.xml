@@ -2443,7 +2443,7 @@ the style metadata must be kept as is.</comments>
   </contributors>
   <scm>
     <connection>scm:git:git://github.com/citation-style-language/styles.git</connection>
-    <developerConnection>scm:git:git://github.com/michel-kraemer/styles.git</developerConnection>
+    <developerConnection>scm:git:git://github.com/klortho/styles.git</developerConnection>
     <url>https://github.com/citation-style-language/styles</url>
   </scm>
 
